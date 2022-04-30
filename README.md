@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dargy Mogollón</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia with the ability to adapt and learn and interested in AI-related topics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dargyjml" alt="dargyjml" /></a> </p>
 
 - 📫 How to reach me **dargijuli@gmail.com**
 
