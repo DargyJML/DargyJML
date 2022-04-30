@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dargy Mogollón</h1>
+<h1 align="center">Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px">,  I'm Dargy Mogollón</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia with the ability to adapt and learn and interested in AI-related topics</h3>
 
 
 - 📫 How to reach me 
 <a href="https://linkedin.com/in/dargy-mogollon-lobo/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/dargy-mogollon-lobo/" height="30" width="70" /></a>
 **dargijuli@gmail.com**
+
+<img align="right" src="https://user-images.githubusercontent.com/90289472/166124986-423f9d23-b979-4fbb-9c3d-8ee75bdaf78c.gif"/>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
